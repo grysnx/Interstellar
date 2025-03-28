@@ -176,7 +176,6 @@ document.addEventListener("DOMContentLoaded", event => {
 const SplashT = [
   "Mt Baker Sucks",
   "Drama Is the best period",
-  "Made by G",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
@@ -199,11 +198,9 @@ function getRandomUrl() {
     "https://google.com",
     "https://docs.google.com",
     "https://slides.google.com",
-    "https://www.nasa.gov",
     "https://blooket.com",
     "https://clever.com",
     "https://edpuzzle.com",
-    "https://khanacademy.org",
     "https://wikipedia.org",
     "https://dictionary.com",
   ];
